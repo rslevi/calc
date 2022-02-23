@@ -1,10 +1,13 @@
 [package]
-name = "calc"
+name = "l_calc"
 version = "0.1.0"
 edition = "2021"
 
 description = "Levi's world renown calculator that can do some addition and subtraction!"
 license = "MIT"
+repository = "https://github.com/rslevi/calc"
+homepage = "https://github.com/rslevi/calc"
+documentation = "https://github.com/rslevi/calc"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
